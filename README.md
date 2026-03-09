@@ -8,7 +8,9 @@ My journey with RAG (Retrieval-Augmented Generation) systems at the ECB started 
 ## App today
 After a year of development, we - ECB's Market operations Innovation Lab and Market Operations Framework - launched COLBOT (Collateral Framework Chatbot), a RAG-based chatbot for exploring the European collateral legal framework. 
 
+
 The app is now available for internal use across the entire European System of Central Banks (ECB + 27 National Central Banks) on a AWS secure platform. It has been presented to wide audiences and conferences in the ESCB: like Market Operations committee, DG-M Townhall, Markets AI Network, Collateral management Network, ...
+
  
 COLBOT uses the following publicly available sources on the EURLEX website:
 - General Documentation EU 2015/510 (ECB/2014/60)
