@@ -1,15 +1,14 @@
 # COLBOT
-Collateral framework RAG chatbot developed during my time at the ECB (only publicly available info shared).
+COLBOT is a RAG-based chatbot for exploring the European collateral legal framework developed during my time at the ECB Market operations Innovation Lab.
 It delivers legally grounded responses with article references through an intuitive graphic interface. The app has been improved benefiting of experts' feedback and review of the responses.
 
 ![unnamed](https://github.com/user-attachments/assets/bfeaf538-abfd-4d65-8c24-31ecf363c939)
 
 ## Background
-My journey with RAG (Retrieval-Augmented Generation) systems at the ECB started during a training (Data Academy) where the final project (DevGPT) was a chatbot to explore internal code repositories in GITLAB.
+My journey with RAG (Retrieval-Augmented Generation) systems at the ECB started during a training at the beginning of 20025 (Data Academy) where the final project (DevGPT) was a chatbot to explore internal code repositories in GITLAB.
 
 ## App today
-After a year of development, we - ECB's Market operations Innovation Lab and Market Operations Framework - launched COLBOT (Collateral Framework Chatbot), a RAG-based chatbot for exploring the European collateral legal framework. 
-
+After a year of development, we launched COLBOT (Collateral Framework Chatbot) ESCB wise the 09/02/2026. 
 
 The app is now available for internal use across the entire European System of Central Banks (ECB + 27 National Central Banks) on a AWS secure platform. It has been presented to wide audiences and conferences in the ESCB: like Market Operations committee, DG-M Townhall, Markets AI Network, Collateral management Network, ...
 
