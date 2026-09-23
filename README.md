@@ -5,7 +5,7 @@ It delivers legally grounded responses with article references through an intuit
 ![unnamed](https://github.com/user-attachments/assets/bfeaf538-abfd-4d65-8c24-31ecf363c939)
 
 ## Background
-My journey with RAG (Retrieval-Augmented Generation) systems at the ECB started during a training at the beginning of 20025 (Data Academy) where the final project (DevGPT) was a chatbot to explore internal code repositories in GITLAB.
+My journey with RAG (Retrieval-Augmented Generation) systems at the ECB started during a training at the beginning of 2025 (Data Academy) where the final project (DevGPT) was a chatbot to explore internal code repositories in GITLAB.
 
 ## App today
 After a year of development, we launched COLBOT (Collateral Framework Chatbot) ESCB wise the 09/02/2026. 
@@ -14,6 +14,7 @@ The app is now available for internal use across the entire European System of C
 
  
 COLBOT uses the following publicly available sources on the EURLEX website:
+- ESCB Internal resources
 - [General Documentation EU 2015/510 (ECB/2014/60)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02014O0060-20250616)
 - Haircuts Guideline EU 2016/65
 - Temporary Framework ECB/2014/31
