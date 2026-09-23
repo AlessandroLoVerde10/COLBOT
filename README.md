@@ -43,9 +43,3 @@ Final prompt: ”You are ColBot, a RAG chatbot useful to answer queries about as
 
 ### Disclaimer
 This post reflects a collective achievement to which I contributed and does not represent an official ECB communication. COLBOT is an AI tool that will improve over time leveraging on new technology, user feedback and developer effort. It is useful for searching extensive documentation and extracting synthetic insights, but relies on standardized prompts, can be inaccurate and of course cannot replace human legal interpretation or the official Guidelines.
-
-
-
-In the images below:
-- COLBOT architecture
-- an example of interaction with the app
